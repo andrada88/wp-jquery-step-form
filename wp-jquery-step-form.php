@@ -7,7 +7,7 @@
  * Version: 1.0.0
  * Author: Adriana Crisan
  * Author URI: http://www.creativeaura.ro
- * License: GPL2
+ * License: GPL3
  */
 
 
